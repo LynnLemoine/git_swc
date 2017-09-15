@@ -1,4 +1,5 @@
 # Author: Lynn Lemoine
+# Date: Friday Sept 15th 2017
 
 
 # vectorization
