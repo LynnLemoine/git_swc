@@ -5,6 +5,12 @@
 #### load packages ####
 
 library(ggplot2)
+library(vegan)
+library(phyloseq)
+
+#### add data ####
+
+ph_distTable <- import_mothur_dist()
 
 # vectorization
 1:5
