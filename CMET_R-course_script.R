@@ -1,3 +1,6 @@
+# Author: Lynn Lemoine
+
+
 # vectorization
 1:5
 2^(1:5)
